@@ -1,2 +1,2 @@
 # Image_gallery01
-All grown up  Image since boy
+Simple Image gallery using HTML5/ CSS3 
